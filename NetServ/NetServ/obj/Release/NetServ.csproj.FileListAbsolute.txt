@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\NetServ\NetServ\bin\Release\NetServ.exe.config
+C:\Users\User\source\repos\NetServ\NetServ\bin\Release\NetServ.exe
+C:\Users\User\source\repos\NetServ\NetServ\bin\Release\NetServ.pdb
+C:\Users\User\source\repos\NetServ\NetServ\obj\Release\NetServ.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NetServ\NetServ\obj\Release\NetServ.NetServInstaller.resources
+C:\Users\User\source\repos\NetServ\NetServ\obj\Release\NetServ.Service1.resources
+C:\Users\User\source\repos\NetServ\NetServ\obj\Release\NetServ.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NetServ\NetServ\obj\Release\NetServ.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NetServ\NetServ\obj\Release\NetServ.exe
+C:\Users\User\source\repos\NetServ\NetServ\obj\Release\NetServ.pdb
